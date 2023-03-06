@@ -1,4 +1,4 @@
-class _100167_tCard extends l2_html._100167_Special_Base {
+class _200001_tCard extends l2_html._200001_Special_Base {
 
 	public img = new l2_fieldTypes.Input(this, {
 		desc: 'url img', type: 'text', group: 'principal',elType:'attr'
