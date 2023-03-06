@@ -20,7 +20,6 @@ class _200001_tCard extends l2_html._200001_Special_Base {
 	 * Comentário avançado
 	 * @name Teste
 	 * @param value - recebe o valor do title2
-	 * @author Lucas
 	 * 
 	 * @remarks
    * This method is part of the {@link core-library#Statistics | Statistics subsystem}.
