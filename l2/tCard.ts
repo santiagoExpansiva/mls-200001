@@ -17,7 +17,7 @@ class _200001_tCard extends l2_html._200001_Special_Base {
 	});
 
 	/**
-	 * Coment√°rio avan√ßado
+	 * Coment·rio avanÁado
 	 * @name Teste
 	 * @param value - recebe o valor do title2
 	 * 
@@ -56,3 +56,4 @@ class _200001_tCard extends l2_html._200001_Special_Base {
 	}
 
 }
+teste
