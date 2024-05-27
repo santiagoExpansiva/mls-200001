@@ -1,2 +1,1 @@
-# testGit
-feito em runião
+Um novo texto para teste pull request
